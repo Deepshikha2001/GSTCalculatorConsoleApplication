@@ -4,4 +4,4 @@
 
 using GSTCalculatorConsoleApplication;
 
-GstCalculator.Calculate();
+GstCalculator.PrintFibonacciPattern(10);
